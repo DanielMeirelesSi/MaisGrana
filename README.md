@@ -2,6 +2,8 @@
 
 Aplicação web para organização financeira pessoal, com controle de gastos, acompanhamento de metas e visualização consolidada da situação financeira do usuário.
 
+![Dashboard do +Grana](docs/imagens/dashboard.png)
+
 ## Funcionalidades implementadas
 
 ### Autenticação e usuários
